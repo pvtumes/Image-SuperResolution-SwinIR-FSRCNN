@@ -1,0 +1,9 @@
+# Ignore dataset
+GOPRO_Large/
+intel_pro/
+__pycache__/
+*.pyc
+*.pth
+*.log
+*.tmp
+.DS_Store
